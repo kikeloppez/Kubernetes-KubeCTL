@@ -10,7 +10,7 @@ Instalamos virtual box.
 
 ```apt install virtualbox```
 
-En caso de no poder instalarlo mediante el comando anterior, seguir este [enlace]()
+En caso de no poder instalarlo mediante el comando anterior, seguir este [enlace]().
 
 Descargamos el paquete de minikube.
 
