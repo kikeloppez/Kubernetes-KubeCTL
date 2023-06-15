@@ -21,3 +21,5 @@ Para instalarlo usamos el siguiente comando.
 
 Con esto ya estaría instalado, lo comprobamos.
 ![4](https://github.com/kikeloppez/Kubernetes-KubeCTL/blob/main/contenido/cuatro/4.png)
+
+:arrow_left: [VOLVER](https://github.com/kikeloppez/Kubernetes-KubeCTL)
