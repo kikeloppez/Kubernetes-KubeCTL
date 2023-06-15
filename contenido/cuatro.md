@@ -1,6 +1,7 @@
 # Instalar VirtualBox - Opción 2
 
 Accedemos a la página oficial de [VirtualBox](https://www.virtualbox.org/wiki/Linux_Downloads).
+
 ![1](https://github.com/kikeloppez/Kubernetes-KubeCTL/blob/main/contenido/cuatro/1.png)
 
 Cogemos el enlace de la version que vayamos a usar, en mi caso Ubuntu 22.04.
