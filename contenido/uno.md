@@ -11,6 +11,6 @@ Requisitos minimos.
 - Docker, QEMU, Hyperkit, Hyper-V, KVM, Parallels, Podman, VirtualBox o VMware Fusion/Workstation
 
 Es muy importante tener activado en VirtualBox las siguientes opciones.
-![1]()
+![1](https://github.com/kikeloppez/Kubernetes-KubeCTL/blob/main/contenido/uno/uno.png)
 
 :arrow_left: [VOLVER](https://github.com/kikeloppez/Kubernetes-KubeCTL)
