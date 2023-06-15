@@ -10,7 +10,7 @@ Instalamos virtual box.
 
 ```apt install virtualbox```
 
-En caso de no poder instalarlo mediante el comando anterior, seguir este [enlace]().
+En caso de no poder instalarlo mediante el comando anterior, seguir este [enlace](https://github.com/kikeloppez/Kubernetes-KubeCTL/blob/main/contenido/uno/cuatro.md).
 
 Descargamos el paquete de minikube.
 
@@ -19,12 +19,12 @@ Descargamos el paquete de minikube.
 Y lo instalamos.
 
 ```sudo install minikube-linux-amd64 /usr/local/bin/minikube```
-![1]()
+![1](https://github.com/kikeloppez/Kubernetes-KubeCTL/blob/main/contenido/uno/1.png)
 
 Iniciamos Minikube con el siguiente comando. Importante hacerlo sin privilegios root.
 
 ```minikube start```
 
-![2]()
+![2](https://github.com/kikeloppez/Kubernetes-KubeCTL/blob/main/contenido/uno/2.png)
 
 :arrow_left: [VOLVER](https://github.com/kikeloppez/Kubernetes-KubeCTL)
