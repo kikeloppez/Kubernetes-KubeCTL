@@ -4,11 +4,11 @@ En este repositorio voy a explicar como instalar y configurar Minikube sobre una
 ![minikube](https://www.ochobitshacenunbyte.com/wp-content/uploads/2020/02/minikube-logo-mini.png)
 
 ## Indice
-:one:[¿Que es Minikube?]()
+:one:[¿Que es Minikube?](https://github.com/kikeloppez/Kubernetes-KubeCTL/blob/main/contenido/uno.md)
 
-:two:[Instalación]()
+:two:[Instalación](https://github.com/kikeloppez/Kubernetes-KubeCTL/blob/main/contenido/dos.md)
 
-:three:[Instalar Portainer]()
+:three:[Instalar Portainer](https://github.com/kikeloppez/Kubernetes-KubeCTL/blob/main/contenido/tres.md)
 
 ## Licencia
 ![LICENCIA](https://github.com/kikelopser/tarea-chocolatey/blob/main/Imagenes/licencia.png)
