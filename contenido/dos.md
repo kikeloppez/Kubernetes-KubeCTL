@@ -21,3 +21,10 @@ Y lo instalamos.
 ```sudo install minikube-linux-amd64 /usr/local/bin/minikube```
 ![1]()
 
+Iniciamos Minikube con el siguiente comando. Importante hacerlo sin privilegios root.
+
+```minikube start```
+
+![2]()
+
+:arrow_left: [VOLVER](https://github.com/kikeloppez/Kubernetes-KubeCTL)
