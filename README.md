@@ -8,7 +8,9 @@ En este repositorio voy a explicar como instalar y configurar Minikube sobre una
 
 :two:[Instalación](https://github.com/kikeloppez/Kubernetes-KubeCTL/blob/main/contenido/dos.md)
 
-:three:[Instalar Portainer](https://github.com/kikeloppez/Kubernetes-KubeCTL/blob/main/contenido/tres.md)
+:three:[Instalar VirtualBox | Opción 2](https://github.com/kikeloppez/Kubernetes-KubeCTL/blob/main/contenido/cuatro.md)
+
+:four:[Instalar Portainer](https://github.com/kikeloppez/Kubernetes-KubeCTL/blob/main/contenido/tres.md)
 
 ## Licencia
 ![LICENCIA](https://github.com/kikelopser/tarea-chocolatey/blob/main/Imagenes/licencia.png)
