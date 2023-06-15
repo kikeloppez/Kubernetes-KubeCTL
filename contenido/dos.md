@@ -10,7 +10,7 @@ Instalamos virtual box.
 
 ```apt install virtualbox```
 
-En caso de no poder instalarlo mediante el comando anterior, seguir este [enlace](https://github.com/kikeloppez/Kubernetes-KubeCTL/blob/main/contenido/uno/cuatro.md).
+En caso de no poder instalarlo mediante el comando anterior, seguir este [enlace](https://github.com/kikeloppez/Kubernetes-KubeCTL/blob/main/contenido/cuatro.md).
 
 Descargamos el paquete de minikube.
 
